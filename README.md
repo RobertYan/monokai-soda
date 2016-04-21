@@ -11,5 +11,5 @@ Put `monokai-soda.vim` file in your `~/.vim/colors/` directory and add the follo
     
 Or using Vundle:
 
-    Bundle "robertyim/monokai-soda"
+    Bundle "RobertYan/monokai-soda"
 
